@@ -1,0 +1,8 @@
+{
+  "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__50.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Driving lesson, pen verification recording.",
+  "normalized_transcript": "driving lesson pen verification recording",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "2d93142f-2230-4709-ae29-e31b63890e41__12.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "حاء א� serv",
+  "normalized_transcript": "serv",
+  "error": null
+}

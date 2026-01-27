@@ -1,0 +1,8 @@
+{
+  "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__3.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Yes, ma'am. I did. Online or not, working ma'am. In the app login. Loan app.",
+  "normalized_transcript": "yes ma am i did online or not working ma am in the app login loan app",
+  "error": null
+}

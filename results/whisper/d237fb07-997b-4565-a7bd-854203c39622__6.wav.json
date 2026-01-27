@@ -1,0 +1,8 @@
+{
+  "audio_file": "d237fb07-997b-4565-a7bd-854203c39622__6.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Nuuna myöhön, hu LAUGH!",
+  "normalized_transcript": "nuuna my h n hu laugh",
+  "error": null
+}

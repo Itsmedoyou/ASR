@@ -1,0 +1,8 @@
+{
+  "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__13.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Will take a note.",
+  "normalized_transcript": "will take a note",
+  "error": null
+}

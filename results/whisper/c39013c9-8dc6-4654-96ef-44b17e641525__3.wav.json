@@ -1,0 +1,8 @@
+{
+  "audio_file": "c39013c9-8dc6-4654-96ef-44b17e641525__3.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Enter to yourself, aye.",
+  "normalized_transcript": "enter to yourself aye",
+  "error": null
+}

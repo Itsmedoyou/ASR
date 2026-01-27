@@ -1,0 +1,8 @@
+{
+  "audio_file": "286b6272-a51d-4f67-9c6e-acbd9b3d7270__2.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "One minute, Google�!",
+  "normalized_transcript": "one minute google",
+  "error": null
+}

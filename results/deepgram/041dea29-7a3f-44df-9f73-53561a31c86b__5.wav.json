@@ -1,0 +1,8 @@
+{
+  "audio_file": "041dea29-7a3f-44df-9f73-53561a31c86b__5.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Time",
+  "normalized_transcript": "time",
+  "error": null
+}

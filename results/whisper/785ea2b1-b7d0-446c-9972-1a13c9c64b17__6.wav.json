@@ -1,0 +1,8 @@
+{
+  "audio_file": "785ea2b1-b7d0-446c-9972-1a13c9c64b17__6.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Let's go and get some nachos",
+  "normalized_transcript": "let s go and get some nachos",
+  "error": null
+}

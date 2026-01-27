@@ -1,0 +1,9 @@
+{
+  "audio_file": "bc77d098-77e9-41d5-9ae0-b521ad3bf368__35.wav",
+  "asr": "assembly",
+  "language": "unspecified",
+  "status": "success",
+  "raw_transcript": "Echo.",
+  "normalized_transcript": "echo",
+  "error": null
+}

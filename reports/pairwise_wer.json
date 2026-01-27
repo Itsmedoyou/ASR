@@ -1,0 +1,30 @@
+{
+  "unspecified": {
+    "whisper_vs_deepgram": {
+      "total_compared": 104,
+      "avg_wer": 1.136
+    },
+    "whisper_vs_assembly": {
+      "total_compared": 206,
+      "avg_wer": 1.099
+    },
+    "deepgram_vs_assembly": {
+      "total_compared": 97,
+      "avg_wer": 1.212
+    }
+  },
+  "hindi": {
+    "whisper_vs_deepgram": {
+      "total_compared": 10,
+      "avg_wer": 1.178
+    },
+    "whisper_vs_assembly": {
+      "total_compared": 10,
+      "avg_wer": 1.055
+    },
+    "deepgram_vs_assembly": {
+      "total_compared": 10,
+      "avg_wer": 0.638
+    }
+  }
+}

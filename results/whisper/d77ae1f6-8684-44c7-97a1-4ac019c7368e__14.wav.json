@@ -1,0 +1,8 @@
+{
+  "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__14.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "I will send my back statement here.",
+  "normalized_transcript": "i will send my back statement here",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "a42e0ec7-acef-41ba-be6b-bfa325b6ee4b__3.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "No, ma'am. Thank you so much.",
+  "normalized_transcript": "no ma am thank you so much",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "72c8c54e-d264-4d42-acfd-464cba7304be__5.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "six",
+  "normalized_transcript": "six",
+  "error": null
+}

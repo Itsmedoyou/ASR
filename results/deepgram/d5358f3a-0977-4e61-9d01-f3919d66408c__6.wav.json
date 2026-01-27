@@ -1,0 +1,8 @@
+{
+  "audio_file": "d5358f3a-0977-4e61-9d01-f3919d66408c__6.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Abidu.",
+  "normalized_transcript": "abidu",
+  "error": null
+}

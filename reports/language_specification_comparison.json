@@ -1,0 +1,50 @@
+{
+  "whisper": {
+    "total_files": {
+      "unspecified": 267,
+      "specified": 12
+    },
+    "empty_rate": {
+      "unspecified": 0.071,
+      "specified": 0.0,
+      "delta": 0.071
+    },
+    "short_output_rate": {
+      "unspecified": 0.296,
+      "specified": 0.083,
+      "delta": 0.21299999999999997
+    }
+  },
+  "deepgram": {
+    "total_files": {
+      "unspecified": 267,
+      "specified": 12
+    },
+    "empty_rate": {
+      "unspecified": 0.603,
+      "specified": 0.167,
+      "delta": 0.43599999999999994
+    },
+    "short_output_rate": {
+      "unspecified": 0.202,
+      "specified": 0.0,
+      "delta": 0.202
+    }
+  },
+  "assembly": {
+    "total_files": {
+      "unspecified": 267,
+      "specified": 12
+    },
+    "empty_rate": {
+      "unspecified": 0.199,
+      "specified": 0.167,
+      "delta": 0.032
+    },
+    "short_output_rate": {
+      "unspecified": 0.461,
+      "specified": 0.0,
+      "delta": 0.461
+    }
+  }
+}

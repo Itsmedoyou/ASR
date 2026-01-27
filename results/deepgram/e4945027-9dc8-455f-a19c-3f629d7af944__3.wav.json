@@ -1,0 +1,8 @@
+{
+  "audio_file": "e4945027-9dc8-455f-a19c-3f629d7af944__3.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "USA.",
+  "normalized_transcript": "usa",
+  "error": null
+}

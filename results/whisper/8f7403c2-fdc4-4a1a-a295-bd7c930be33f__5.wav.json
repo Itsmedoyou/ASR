@@ -1,0 +1,8 @@
+{
+  "audio_file": "8f7403c2-fdc4-4a1a-a295-bd7c930be33f__5.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "It's good if it's for 3 months, it won't be for 1 month.",
+  "normalized_transcript": "it s good if it s for 3 months it won t be for 1 month",
+  "error": null
+}

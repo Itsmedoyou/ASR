@@ -1,0 +1,8 @@
+{
+  "audio_file": "c7abc4a0-7473-42f5-8a44-668e09d067ba__4.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "şam, when I die on the other side,",
+  "normalized_transcript": "am when i die on the other side",
+  "error": null
+}

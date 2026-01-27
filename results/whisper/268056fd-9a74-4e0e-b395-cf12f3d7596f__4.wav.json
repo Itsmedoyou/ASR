@@ -1,0 +1,8 @@
+{
+  "audio_file": "268056fd-9a74-4e0e-b395-cf12f3d7596f__4.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "and myant kind of awesome",
+  "normalized_transcript": "and myant kind of awesome",
+  "error": null
+}

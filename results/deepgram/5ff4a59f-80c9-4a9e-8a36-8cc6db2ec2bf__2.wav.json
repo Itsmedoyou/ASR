@@ -1,0 +1,8 @@
+{
+  "audio_file": "5ff4a59f-80c9-4a9e-8a36-8cc6db2ec2bf__2.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Name, ma'am, abuse address",
+  "normalized_transcript": "name ma am abuse address",
+  "error": null
+}

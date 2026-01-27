@@ -1,0 +1,8 @@
+{
+  "audio_file": "38cce214-d7e0-48f0-94a9-c9fc1b6c753d__2.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Yes, ma'am.",
+  "normalized_transcript": "yes ma am",
+  "error": null
+}

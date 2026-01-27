@@ -1,0 +1,619 @@
+{
+  "unspecified": [
+    {
+      "audio_file": "43870ef7-c3a0-4985-8e42-f35857b5f229__3.wav",
+      "keyword_stability": 0.111,
+      "common_keywords": [
+        "madam"
+      ]
+    },
+    {
+      "audio_file": "3aad30b9-39a3-4e08-b610-6ffa866f88ff__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "c3105367-8f23-440c-850f-cd3bc87ca981__8.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__3.wav",
+      "keyword_stability": 0.333,
+      "common_keywords": [
+        "online",
+        "login",
+        "Yes",
+        "working"
+      ]
+    },
+    {
+      "audio_file": "041dea29-7a3f-44df-9f73-53561a31c86b__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "2d5c57d0-6885-4833-85a4-9abeef97a87f__9.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "bde4a68b-a634-4cdd-8d09-57bc043169d5__16.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "42629491-41da-4433-bd5f-c08fe93cdf24__15.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "72c8c54e-d264-4d42-acfd-464cba7304be__15.wav",
+      "keyword_stability": 0.118,
+      "common_keywords": [
+        "option",
+        "another"
+      ]
+    },
+    {
+      "audio_file": "49aa40c2-b65b-4fe7-8935-5439a8e021d7__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__8.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "1cdca2b1-f1cf-48f3-b285-3494037f566d__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "812d45a6-11d1-4aaf-9ffe-f4ce25850df3__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "268056fd-9a74-4e0e-b395-cf12f3d7596f__4.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "a42e0ec7-acef-41ba-be6b-bfa325b6ee4b__3.wav",
+      "keyword_stability": 0.4,
+      "common_keywords": [
+        "thank",
+        "much"
+      ]
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__15.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "3be758aa-25e6-4d96-975b-f208b98e089b__2.wav",
+      "keyword_stability": 0.667,
+      "common_keywords": [
+        "Yeah",
+        "yeah"
+      ]
+    },
+    {
+      "audio_file": "f0353b18-e0a2-4566-8a29-417cc14712d4__4.wav",
+      "keyword_stability": 0.067,
+      "common_keywords": [
+        "pass"
+      ]
+    },
+    {
+      "audio_file": "afe721e3-5be6-4b1a-bf8a-1d305f5d16ce__10.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "91872abf-f1ad-438d-b462-3878b74f0298__2.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "Hello",
+        "hello"
+      ]
+    },
+    {
+      "audio_file": "bde4a68b-a634-4cdd-8d09-57bc043169d5__10.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "okay",
+        "Okay"
+      ]
+    },
+    {
+      "audio_file": "4d9c9072-87fe-4057-9ec2-0ba6eafb3d07__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "812d45a6-11d1-4aaf-9ffe-f4ce25850df3__8.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "Hello",
+        "hello"
+      ]
+    },
+    {
+      "audio_file": "42629491-41da-4433-bd5f-c08fe93cdf24__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d237fb07-997b-4565-a7bd-854203c39622__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "2d93142f-2230-4709-ae29-e31b63890e41__10.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "c39013c9-8dc6-4654-96ef-44b17e641525__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "f187fd1f-4e98-47ca-8367-72ed90fdc0f5__2.wav",
+      "keyword_stability": 0.75,
+      "common_keywords": [
+        "tell",
+        "Hello",
+        "hello"
+      ]
+    },
+    {
+      "audio_file": "e873f06b-7ac1-44e9-83d6-671cc93c7722__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "fc2b7fef-11c0-48b8-9407-1a79fe7abdcd__28.wav",
+      "keyword_stability": 0.75,
+      "common_keywords": [
+        "thank",
+        "okay",
+        "Okay"
+      ]
+    },
+    {
+      "audio_file": "fe1feb4e-32c8-4323-9f5d-b15dbf67a1e9__2.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "good",
+        "tell",
+        "yeah",
+        "Yeah",
+        "doing",
+        "Tell"
+      ]
+    },
+    {
+      "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__7.wav",
+      "keyword_stability": 0.571,
+      "common_keywords": [
+        "room",
+        "rent",
+        "renting",
+        "No"
+      ]
+    },
+    {
+      "audio_file": "5ff4a59f-80c9-4a9e-8a36-8cc6db2ec2bf__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "e4945027-9dc8-455f-a19c-3f629d7af944__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "7cc15c46-0da4-4967-9646-9962576e280e__15.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "okay",
+        "Okay"
+      ]
+    },
+    {
+      "audio_file": "6910affa-a0d4-41ef-98fe-12bfe76d82d8__14.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "ffe58564-6e47-4fdb-8f58-53b6a4766d1f__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "3aad30b9-39a3-4e08-b610-6ffa866f88ff__4.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "46168a4d-72ea-4838-ba45-6a38fc7739de__8.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "No"
+      ]
+    },
+    {
+      "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "6b43f1c7-e001-4d1a-aa5b-da6d03be20ac__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "bc77d098-77e9-41d5-9ae0-b521ad3bf368__25.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "okay",
+        "Okay"
+      ]
+    },
+    {
+      "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "f32c25e3-ccb1-4e48-92f3-09d986599506__17.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__9.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "afe721e3-5be6-4b1a-bf8a-1d305f5d16ce__7.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d713e952-feba-478f-8ccf-e33ece381f14__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__13.wav",
+      "keyword_stability": 0.167,
+      "common_keywords": [
+        "will"
+      ]
+    },
+    {
+      "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__18.wav",
+      "keyword_stability": 0.286,
+      "common_keywords": [
+        "Yeah",
+        "yeah"
+      ]
+    },
+    {
+      "audio_file": "a682e8ef-0952-494c-962c-59954008b4e2__12.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "e4945027-9dc8-455f-a19c-3f629d7af944__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d5358f3a-0977-4e61-9d01-f3919d66408c__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "cde84771-be38-4346-9c32-cd14e203fac1__7.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "3369345f-4759-443f-b77f-8b3382fd8997__4.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "72c8c54e-d264-4d42-acfd-464cba7304be__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "543dcbc4-c830-48c3-8b2f-e4103a6b54b7__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__7.wav",
+      "keyword_stability": 0.167,
+      "common_keywords": [
+        "application"
+      ]
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__14.wav",
+      "keyword_stability": 0.5,
+      "common_keywords": [
+        "will",
+        "send",
+        "statement"
+      ]
+    },
+    {
+      "audio_file": "56814002-3c62-48eb-a8d8-3c1d2aeb5341__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4347360c-aa8c-4e9f-8bf9-30630771d713__2.wav",
+      "keyword_stability": 0.167,
+      "common_keywords": [
+        "No"
+      ]
+    },
+    {
+      "audio_file": "c6917414-2b75-4242-8e8a-541188f3b826__2.wav",
+      "keyword_stability": 0.6,
+      "common_keywords": [
+        "much",
+        "amount",
+        "that"
+      ]
+    },
+    {
+      "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__10.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__10.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "1121ee3b-e80f-4c15-a3c7-b65708e28689__8.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "2d93142f-2230-4709-ae29-e31b63890e41__7.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "42edd685-ba21-4183-a492-540b7eae3503__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__9.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__17.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "041dea29-7a3f-44df-9f73-53561a31c86b__5.wav",
+      "keyword_stability": 0.5,
+      "common_keywords": [
+        "time",
+        "Time"
+      ]
+    },
+    {
+      "audio_file": "8f7403c2-fdc4-4a1a-a295-bd7c930be33f__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "62254488-2533-43da-ab10-69a335422642__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__19.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__2.wav",
+      "keyword_stability": 0.8,
+      "common_keywords": [
+        "Yeah",
+        "that",
+        "yeah",
+        "with"
+      ]
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "04b0cce8-6ca3-4bd7-8a51-cd2b6d5d06f0__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "0f579e6c-b218-4758-866e-543d90f264b3__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "027b417d-a471-4526-9b34-be762f6bd9be__9.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4347360c-aa8c-4e9f-8bf9-30630771d713__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "46168a4d-72ea-4838-ba45-6a38fc7739de__4.wav",
+      "keyword_stability": 0.125,
+      "common_keywords": [
+        "interest"
+      ]
+    },
+    {
+      "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__8.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4397b6b1-5e8d-4129-be12-a31d9330e78a__7.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "cb06e683-00ff-4b98-a581-7062db3929c2__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "8f7403c2-fdc4-4a1a-a295-bd7c930be33f__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "ff469b5a-8cda-4213-ac3f-f839597a557a__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "1121ee3b-e80f-4c15-a3c7-b65708e28689__12.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "okay",
+        "Okay"
+      ]
+    },
+    {
+      "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "6910affa-a0d4-41ef-98fe-12bfe76d82d8__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4b78fdfa-d440-4592-bf18-3b996ea39e6e__8.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__7.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__50.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "c3c457d1-6cca-4013-8a1d-d8303cb86f72__19.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "3aad30b9-39a3-4e08-b610-6ffa866f88ff__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "286b6272-a51d-4f67-9c6e-acbd9b3d7270__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "cde84771-be38-4346-9c32-cd14e203fac1__2.wav",
+      "keyword_stability": 1.0,
+      "common_keywords": [
+        "Hello",
+        "hello"
+      ]
+    }
+  ],
+  "hindi": [
+    {
+      "audio_file": "27c5eac3-86c2-4d5f-976b-4b946171f2c3__4.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__50.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "5ff4a59f-80c9-4a9e-8a36-8cc6db2ec2bf__2.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "027b417d-a471-4526-9b34-be762f6bd9be__9.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "46168a4d-72ea-4838-ba45-6a38fc7739de__4.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "c8aeedaa-7309-43ef-a78d-9bfa183f859e__13.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__17.wav",
+      "keyword_stability": 0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "d237fb07-997b-4565-a7bd-854203c39622__6.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "47c3d16a-2eda-47c4-a9f7-08a90984d55c__3.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__5.wav",
+      "keyword_stability": 0.0,
+      "common_keywords": []
+    }
+  ]
+}

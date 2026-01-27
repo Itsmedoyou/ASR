@@ -1,0 +1,8 @@
+{
+  "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__3.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "No. Yes, ma'am. I online not working, ma'am, in the app login, phone app.",
+  "normalized_transcript": "no yes ma am i online not working ma am in the app login phone app",
+  "error": null
+}

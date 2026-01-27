@@ -1,0 +1,8 @@
+{
+  "audio_file": "42629491-41da-4433-bd5f-c08fe93cdf24__15.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "and we'll delete it.",
+  "normalized_transcript": "and we ll delete it",
+  "error": null
+}

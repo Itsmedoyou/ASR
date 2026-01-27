@@ -1,0 +1,9 @@
+{
+  "audio_file": "5ff4a59f-80c9-4a9e-8a36-8cc6db2ec2bf__4.wav",
+  "asr": "assembly",
+  "language": "unspecified",
+  "status": "success",
+  "raw_transcript": "Credit card bill, hair.",
+  "normalized_transcript": "credit card bill hair",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "2d5c57d0-6885-4833-85a4-9abeef97a87f__9.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Okay.",
+  "normalized_transcript": "okay",
+  "error": null
+}

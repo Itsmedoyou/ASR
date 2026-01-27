@@ -1,0 +1,8 @@
+{
+  "audio_file": "4c9db605-c5cf-46d0-b877-79273e8a7d1e__3.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Valley",
+  "normalized_transcript": "valley",
+  "error": null
+}

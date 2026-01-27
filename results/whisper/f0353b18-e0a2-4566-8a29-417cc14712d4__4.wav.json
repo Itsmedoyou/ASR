@@ -1,0 +1,8 @@
+{
+  "audio_file": "f0353b18-e0a2-4566-8a29-417cc14712d4__4.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Try more than you need to pass the profiling Abraham error.",
+  "normalized_transcript": "try more than you need to pass the profiling abraham error",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "2d93142f-2230-4709-ae29-e31b63890e41__10.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Call me.",
+  "normalized_transcript": "call me",
+  "error": null
+}

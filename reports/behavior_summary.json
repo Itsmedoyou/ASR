@@ -1,0 +1,50 @@
+{
+  "whisper_unspecified": {
+    "total": 267,
+    "empty": 19,
+    "short_outputs": 79,
+    "devanagari": 66,
+    "latin": 140,
+    "mixed": 4
+  },
+  "whisper_hindi": {
+    "total": 12,
+    "empty": 0,
+    "short_outputs": 1,
+    "devanagari": 11,
+    "latin": 0,
+    "mixed": 1
+  },
+  "deepgram_unspecified": {
+    "total": 267,
+    "empty": 161,
+    "short_outputs": 54,
+    "devanagari": 0,
+    "latin": 106,
+    "mixed": 0
+  },
+  "deepgram_hindi": {
+    "total": 12,
+    "empty": 2,
+    "short_outputs": 0,
+    "devanagari": 0,
+    "latin": 1,
+    "mixed": 9
+  },
+  "assembly_unspecified": {
+    "total": 267,
+    "empty": 53,
+    "short_outputs": 123,
+    "devanagari": 0,
+    "latin": 214,
+    "mixed": 0
+  },
+  "assembly_hindi": {
+    "total": 12,
+    "empty": 2,
+    "short_outputs": 0,
+    "devanagari": 8,
+    "latin": 0,
+    "mixed": 2
+  }
+}

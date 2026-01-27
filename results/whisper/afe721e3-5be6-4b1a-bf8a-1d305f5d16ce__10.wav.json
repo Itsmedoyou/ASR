@@ -1,0 +1,8 @@
+{
+  "audio_file": "afe721e3-5be6-4b1a-bf8a-1d305f5d16ce__10.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Gym type token",
+  "normalized_transcript": "gym type token",
+  "error": null
+}

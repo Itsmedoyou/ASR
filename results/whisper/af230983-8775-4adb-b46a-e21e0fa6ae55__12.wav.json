@@ -1,0 +1,8 @@
+{
+  "audio_file": "af230983-8775-4adb-b46a-e21e0fa6ae55__12.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Abis link kat ya?",
+  "normalized_transcript": "abis link kat ya",
+  "error": null
+}

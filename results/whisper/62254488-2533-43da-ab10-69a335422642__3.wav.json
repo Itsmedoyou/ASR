@@ -1,0 +1,8 @@
+{
+  "audio_file": "62254488-2533-43da-ab10-69a335422642__3.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "All right, let's go.",
+  "normalized_transcript": "all right let s go",
+  "error": null
+}

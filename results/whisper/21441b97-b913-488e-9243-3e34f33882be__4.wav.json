@@ -1,0 +1,8 @@
+{
+  "audio_file": "21441b97-b913-488e-9243-3e34f33882be__4.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Opa aqui!",
+  "normalized_transcript": "opa aqui",
+  "error": null
+}

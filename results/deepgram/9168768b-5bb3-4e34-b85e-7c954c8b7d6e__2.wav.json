@@ -1,0 +1,8 @@
+{
+  "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__2.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "I wanna continue bank account problem. Okay?",
+  "normalized_transcript": "i wanna continue bank account problem okay",
+  "error": null
+}

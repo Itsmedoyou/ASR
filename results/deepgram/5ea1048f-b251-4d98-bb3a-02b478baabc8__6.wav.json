@@ -1,0 +1,8 @@
+{
+  "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__6.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Loan application monitor.",
+  "normalized_transcript": "loan application monitor",
+  "error": null
+}

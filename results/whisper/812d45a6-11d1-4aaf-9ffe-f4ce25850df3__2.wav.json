@@ -1,0 +1,8 @@
+{
+  "audio_file": "812d45a6-11d1-4aaf-9ffe-f4ce25850df3__2.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "F***, c'est du... Allô ?",
+  "normalized_transcript": "f c est du all",
+  "error": null
+}

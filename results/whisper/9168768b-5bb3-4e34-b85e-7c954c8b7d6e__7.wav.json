@@ -1,0 +1,8 @@
+{
+  "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__7.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "I will be back time Madam.",
+  "normalized_transcript": "i will be back time madam",
+  "error": null
+}

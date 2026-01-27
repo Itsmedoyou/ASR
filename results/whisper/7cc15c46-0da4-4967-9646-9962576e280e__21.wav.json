@@ -1,0 +1,8 @@
+{
+  "audio_file": "7cc15c46-0da4-4967-9646-9962576e280e__21.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Bonne soirée.",
+  "normalized_transcript": "bonne soir e",
+  "error": null
+}

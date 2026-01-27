@@ -1,0 +1,8 @@
+{
+  "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__10.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "I don't love to do that.",
+  "normalized_transcript": "i don t love to do that",
+  "error": null
+}

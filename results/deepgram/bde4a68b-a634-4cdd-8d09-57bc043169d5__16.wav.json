@@ -1,0 +1,8 @@
+{
+  "audio_file": "bde4a68b-a634-4cdd-8d09-57bc043169d5__16.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "I'm at my bank.",
+  "normalized_transcript": "i m at my bank",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "3be758aa-25e6-4d96-975b-f208b98e089b__7.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Let's get in there.",
+  "normalized_transcript": "let s get in there",
+  "error": null
+}

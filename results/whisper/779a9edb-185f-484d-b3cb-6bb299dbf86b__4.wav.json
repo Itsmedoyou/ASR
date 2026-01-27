@@ -1,0 +1,8 @@
+{
+  "audio_file": "779a9edb-185f-484d-b3cb-6bb299dbf86b__4.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "No in the morning.",
+  "normalized_transcript": "no in the morning",
+  "error": null
+}

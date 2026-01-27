@@ -1,0 +1,8 @@
+{
+  "audio_file": "7d688165-2160-4d87-8746-a2dd673db40f__2.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Nadie ha venido.",
+  "normalized_transcript": "nadie ha venido",
+  "error": null
+}

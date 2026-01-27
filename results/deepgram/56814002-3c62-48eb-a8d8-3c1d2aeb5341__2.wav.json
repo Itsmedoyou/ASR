@@ -1,0 +1,8 @@
+{
+  "audio_file": "56814002-3c62-48eb-a8d8-3c1d2aeb5341__2.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Uh-huh.",
+  "normalized_transcript": "uh huh",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__5.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Patch it in smart.",
+  "normalized_transcript": "patch it in smart",
+  "error": null
+}

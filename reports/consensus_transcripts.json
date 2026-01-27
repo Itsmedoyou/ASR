@@ -1,0 +1,951 @@
+{
+  "unspecified": [
+    {
+      "audio_file": "43870ef7-c3a0-4985-8e42-f35857b5f229__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Taring sir, Taring madam"
+    },
+    {
+      "audio_file": "3aad30b9-39a3-4e08-b610-6ffa866f88ff__6.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "That's OK."
+    },
+    {
+      "audio_file": "c3105367-8f23-440c-850f-cd3bc87ca981__8.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.125,
+      "consensus_transcript": "Main question. What come."
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.333,
+      "consensus_transcript": "No. Yes, ma'am. I online not working, ma'am, in the app login, phone app."
+    },
+    {
+      "audio_file": "041dea29-7a3f-44df-9f73-53561a31c86b__6.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Name it."
+    },
+    {
+      "audio_file": "2d5c57d0-6885-4833-85a4-9abeef97a87f__9.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Okay."
+    },
+    {
+      "audio_file": "bde4a68b-a634-4cdd-8d09-57bc043169d5__16.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "I'm at me bang."
+    },
+    {
+      "audio_file": "42629491-41da-4433-bd5f-c08fe93cdf24__15.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "and we'll delete it."
+    },
+    {
+      "audio_file": "72c8c54e-d264-4d42-acfd-464cba7304be__15.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.733,
+      "consensus_transcript": "Without the two resident proof and everything, is there any another option?"
+    },
+    {
+      "audio_file": "49aa40c2-b65b-4fe7-8935-5439a8e021d7__3.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.667,
+      "consensus_transcript": "Yes, madam."
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__8.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "Bank statement, PDF, I will send them now."
+    },
+    {
+      "audio_file": "1cdca2b1-f1cf-48f3-b285-3494037f566d__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "아구 나"
+    },
+    {
+      "audio_file": "812d45a6-11d1-4aaf-9ffe-f4ce25850df3__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Hello?"
+    },
+    {
+      "audio_file": "268056fd-9a74-4e0e-b395-cf12f3d7596f__4.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Ma'am,"
+    },
+    {
+      "audio_file": "a42e0ec7-acef-41ba-be6b-bfa325b6ee4b__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "No, ma'am. Thank you so much."
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__15.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Okay, okay."
+    },
+    {
+      "audio_file": "3be758aa-25e6-4d96-975b-f208b98e089b__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Yeah, yeah."
+    },
+    {
+      "audio_file": "f0353b18-e0a2-4566-8a29-417cc14712d4__4.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.375,
+      "consensus_transcript": "Made a pass profile approval."
+    },
+    {
+      "audio_file": "afe721e3-5be6-4b1a-bf8a-1d305f5d16ce__10.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.333,
+      "consensus_transcript": "Inter IFC code."
+    },
+    {
+      "audio_file": "91872abf-f1ad-438d-b462-3878b74f0298__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Hello?"
+    },
+    {
+      "audio_file": "bde4a68b-a634-4cdd-8d09-57bc043169d5__10.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Okay."
+    },
+    {
+      "audio_file": "4d9c9072-87fe-4057-9ec2-0ba6eafb3d07__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Madam cutter."
+    },
+    {
+      "audio_file": "812d45a6-11d1-4aaf-9ffe-f4ce25850df3__8.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Hello?"
+    },
+    {
+      "audio_file": "42629491-41da-4433-bd5f-c08fe93cdf24__6.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "See?"
+    },
+    {
+      "audio_file": "d237fb07-997b-4565-a7bd-854203c39622__6.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "No. No, man. No interest."
+    },
+    {
+      "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__6.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.667,
+      "consensus_transcript": "Loan application monitor."
+    },
+    {
+      "audio_file": "2d93142f-2230-4709-ae29-e31b63890e41__10.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Call me."
+    },
+    {
+      "audio_file": "c39013c9-8dc6-4654-96ef-44b17e641525__3.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Interested."
+    },
+    {
+      "audio_file": "f187fd1f-4e98-47ca-8367-72ed90fdc0f5__2.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.667,
+      "consensus_transcript": "Hello? Tell me."
+    },
+    {
+      "audio_file": "e873f06b-7ac1-44e9-83d6-671cc93c7722__3.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.167,
+      "consensus_transcript": "Other other other recent mobile number"
+    },
+    {
+      "audio_file": "fc2b7fef-11c0-48b8-9407-1a79fe7abdcd__28.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.6,
+      "consensus_transcript": "Okay. Thank you."
+    },
+    {
+      "audio_file": "fe1feb4e-32c8-4323-9f5d-b15dbf67a1e9__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Yeah, I'm doing good. Tell me."
+    },
+    {
+      "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__7.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.25,
+      "consensus_transcript": "No, ma'am. I'm renting, room rent."
+    },
+    {
+      "audio_file": "5ff4a59f-80c9-4a9e-8a36-8cc6db2ec2bf__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Name, ma'am, abuse address"
+    },
+    {
+      "audio_file": "e4945027-9dc8-455f-a19c-3f629d7af944__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Lunch"
+    },
+    {
+      "audio_file": "7cc15c46-0da4-4967-9646-9962576e280e__15.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Okay."
+    },
+    {
+      "audio_file": "6910affa-a0d4-41ef-98fe-12bfe76d82d8__14.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Gigi."
+    },
+    {
+      "audio_file": "ffe58564-6e47-4fdb-8f58-53b6a4766d1f__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Hello?"
+    },
+    {
+      "audio_file": "3aad30b9-39a3-4e08-b610-6ffa866f88ff__4.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.571,
+      "consensus_transcript": "FM current address proof not available."
+    },
+    {
+      "audio_file": "46168a4d-72ea-4838-ba45-6a38fc7739de__8.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "No, no, no."
+    },
+    {
+      "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__6.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "Bill not available, madam. Current bill."
+    },
+    {
+      "audio_file": "6b43f1c7-e001-4d1a-aa5b-da6d03be20ac__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "No, ma'am."
+    },
+    {
+      "audio_file": "bc77d098-77e9-41d5-9ae0-b521ad3bf368__25.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Okay, okay."
+    },
+    {
+      "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "In math."
+    },
+    {
+      "audio_file": "f32c25e3-ccb1-4e48-92f3-09d986599506__17.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Never."
+    },
+    {
+      "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__9.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Attack mid poster."
+    },
+    {
+      "audio_file": "afe721e3-5be6-4b1a-bf8a-1d305f5d16ce__7.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Bank account."
+    },
+    {
+      "audio_file": "d713e952-feba-478f-8ccf-e33ece381f14__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.4,
+      "consensus_transcript": "Don't know what to do."
+    },
+    {
+      "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__13.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.6,
+      "consensus_transcript": "Will take a note."
+    },
+    {
+      "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__18.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.25,
+      "consensus_transcript": "Yeah, I hope that."
+    },
+    {
+      "audio_file": "a682e8ef-0952-494c-962c-59954008b4e2__12.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Three"
+    },
+    {
+      "audio_file": "e4945027-9dc8-455f-a19c-3f629d7af944__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "USA."
+    },
+    {
+      "audio_file": "d5358f3a-0977-4e61-9d01-f3919d66408c__6.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Abidu."
+    },
+    {
+      "audio_file": "cde84771-be38-4346-9c32-cd14e203fac1__7.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Yeah."
+    },
+    {
+      "audio_file": "3369345f-4759-443f-b77f-8b3382fd8997__4.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Ma'am,"
+    },
+    {
+      "audio_file": "72c8c54e-d264-4d42-acfd-464cba7304be__5.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.4,
+      "consensus_transcript": "I can't provide this, ma'am."
+    },
+    {
+      "audio_file": "543dcbc4-c830-48c3-8b2f-e4103a6b54b7__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "No, sorry."
+    },
+    {
+      "audio_file": "5ea1048f-b251-4d98-bb3a-02b478baabc8__7.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Salon application?"
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__14.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "I will send my bank statement."
+    },
+    {
+      "audio_file": "56814002-3c62-48eb-a8d8-3c1d2aeb5341__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "아하"
+    },
+    {
+      "audio_file": "4347360c-aa8c-4e9f-8bf9-30630771d713__2.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.375,
+      "consensus_transcript": "No, ma', am, I am driving the wrong."
+    },
+    {
+      "audio_file": "c6917414-2b75-4242-8e8a-541188f3b826__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "How much amount is that?"
+    },
+    {
+      "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__10.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Love."
+    },
+    {
+      "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__10.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.222,
+      "consensus_transcript": "Current bill. My name is my Amperlar."
+    },
+    {
+      "audio_file": "1121ee3b-e80f-4c15-a3c7-b65708e28689__8.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Oh, cancel."
+    },
+    {
+      "audio_file": "2d93142f-2230-4709-ae29-e31b63890e41__7.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.333,
+      "consensus_transcript": "We can upload a timing command."
+    },
+    {
+      "audio_file": "42edd685-ba21-4183-a492-540b7eae3503__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "One"
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__9.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "अपन हो गयमें"
+    },
+    {
+      "audio_file": "d77ae1f6-8684-44c7-97a1-4ac019c7368e__17.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Ma'am."
+    },
+    {
+      "audio_file": "041dea29-7a3f-44df-9f73-53561a31c86b__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "Time"
+    },
+    {
+      "audio_file": "8f7403c2-fdc4-4a1a-a295-bd7c930be33f__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "888 minus three minus three."
+    },
+    {
+      "audio_file": "62254488-2533-43da-ab10-69a335422642__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Oh, alright. Okay."
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__19.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "Enter other card number."
+    },
+    {
+      "audio_file": "54ba9290-7e8f-46fa-a459-2f64da460b82__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Yeah, with that."
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Nicole"
+    },
+    {
+      "audio_file": "04b0cce8-6ca3-4bd7-8a51-cd2b6d5d06f0__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "तिल्गु तिल्गु मैं"
+    },
+    {
+      "audio_file": "0f579e6c-b218-4758-866e-543d90f264b3__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Ma'am,"
+    },
+    {
+      "audio_file": "027b417d-a471-4526-9b34-be762f6bd9be__9.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Contact."
+    },
+    {
+      "audio_file": "4347360c-aa8c-4e9f-8bf9-30630771d713__5.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "Okay."
+    },
+    {
+      "audio_file": "46168a4d-72ea-4838-ba45-6a38fc7739de__4.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.273,
+      "consensus_transcript": "It's not an interest to how the interest was."
+    },
+    {
+      "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__8.wav",
+      "consensus_asrs": [
+        "whisper",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "My bezama."
+    },
+    {
+      "audio_file": "4397b6b1-5e8d-4129-be12-a31d9330e78a__7.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Early open."
+    },
+    {
+      "audio_file": "cb06e683-00ff-4b98-a581-7062db3929c2__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Yes."
+    },
+    {
+      "audio_file": "8f7403c2-fdc4-4a1a-a295-bd7c930be33f__6.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Gigi."
+    },
+    {
+      "audio_file": "ff469b5a-8cda-4213-ac3f-f839597a557a__3.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.75,
+      "consensus_transcript": "I have open kia."
+    },
+    {
+      "audio_file": "1121ee3b-e80f-4c15-a3c7-b65708e28689__12.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 1.0,
+      "consensus_transcript": "Okay."
+    },
+    {
+      "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "I wanna continue bank account problem. Okay?"
+    },
+    {
+      "audio_file": "6910affa-a0d4-41ef-98fe-12bfe76d82d8__6.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Madam."
+    },
+    {
+      "audio_file": "4b78fdfa-d440-4592-bf18-3b996ea39e6e__8.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Open here,"
+    },
+    {
+      "audio_file": "9168768b-5bb3-4e34-b85e-7c954c8b7d6e__7.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Good day, madam."
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__50.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.2,
+      "consensus_transcript": "Driving lesson, pen verification recording."
+    },
+    {
+      "audio_file": "c3c457d1-6cca-4013-8a1d-d8303cb86f72__19.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Online"
+    },
+    {
+      "audio_file": "3aad30b9-39a3-4e08-b610-6ffa866f88ff__5.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.5,
+      "consensus_transcript": "No, ma'am. All no."
+    },
+    {
+      "audio_file": "286b6272-a51d-4f67-9c6e-acbd9b3d7270__3.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.333,
+      "consensus_transcript": "Okay, Nana."
+    },
+    {
+      "audio_file": "cde84771-be38-4346-9c32-cd14e203fac1__2.wav",
+      "consensus_asrs": [
+        "whisper",
+        "deepgram"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "Hello"
+    }
+  ],
+  "hindi": [
+    {
+      "audio_file": "27c5eac3-86c2-4d5f-976b-4b946171f2c3__4.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.412,
+      "consensus_transcript": "अगले स्टॉप पर वो करना वो नहीं है। मेरे पास बिजली अग्रीमेंट पर नहीं है।"
+    },
+    {
+      "audio_file": "05d025b7-4c0e-4498-b8ad-b09694f9a6bb__50.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.091,
+      "consensus_transcript": "आम, एंबो, आधार कार्ड, ड्राइविंग लैसन, पेन वेरिफिकेशन रिकॉर्डिंग।"
+    },
+    {
+      "audio_file": "5ff4a59f-80c9-4a9e-8a36-8cc6db2ec2bf__2.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.438,
+      "consensus_transcript": "नहीं। मैं। अभी उसमें एड्रेस प्रूफ की जरूरत पड़ती है, तो भी मेरे पास नहीं है मैं।"
+    },
+    {
+      "audio_file": "027b417d-a471-4526-9b34-be762f6bd9be__9.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.429,
+      "consensus_transcript": "नहीं। आप भी तो ऐसा कुछ प्लान अगर होगा तो मैं कॉन्टैक्ट करते?"
+    },
+    {
+      "audio_file": "46168a4d-72ea-4838-ba45-6a38fc7739de__4.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.0,
+      "consensus_transcript": "scam intrest walteindestwaker on an in।"
+    },
+    {
+      "audio_file": "c8aeedaa-7309-43ef-a78d-9bfa183f859e__13.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.6,
+      "consensus_transcript": "वह भी आदर नंबर डालने के लिए बोल रहे हैं।"
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__17.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.4,
+      "consensus_transcript": "यह तो आठ आठ दिन का दिखा रहा था mam इसीलिए हम छोड़ दिए थे."
+    },
+    {
+      "audio_file": "d237fb07-997b-4565-a7bd-854203c39622__6.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.333,
+      "consensus_transcript": "no no intestin canto।"
+    },
+    {
+      "audio_file": "47c3d16a-2eda-47c4-a9f7-08a90984d55c__3.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.286,
+      "consensus_transcript": "नहीं, मेडम उसमे प्रोसेस कोई तकलीफ नहीं है। तकलीफ क्या है पंद्रह सौ इंट्रेस्ट का 5, 6000 से 19।"
+    },
+    {
+      "audio_file": "4e337e23-fc27-49b9-a15d-ff870801f2af__5.wav",
+      "consensus_asrs": [
+        "deepgram",
+        "assembly"
+      ],
+      "confidence": 0.636,
+      "consensus_transcript": "नहीं खोल रहे हैं। क्या क्या क्या 1 था में।"
+    }
+  ]
+}

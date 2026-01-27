@@ -1,0 +1,9 @@
+{
+  "audio_file": "812d45a6-11d1-4aaf-9ffe-f4ce25850df3__8.wav",
+  "asr": "assembly",
+  "language": "unspecified",
+  "status": "success",
+  "raw_transcript": "Hello.",
+  "normalized_transcript": "hello",
+  "error": null
+}

@@ -1,0 +1,8 @@
+{
+  "audio_file": "6eab01a2-eb02-404d-ad03-f5f8464dc65f__6.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "Bill not available, madam. Current bill.",
+  "normalized_transcript": "bill not available madam current bill",
+  "error": null
+}

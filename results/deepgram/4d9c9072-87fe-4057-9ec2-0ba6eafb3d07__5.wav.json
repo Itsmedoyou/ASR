@@ -1,0 +1,8 @@
+{
+  "audio_file": "4d9c9072-87fe-4057-9ec2-0ba6eafb3d07__5.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "I'm gonna move a little thing with the face",
+  "normalized_transcript": "i m gonna move a little thing with the face",
+  "error": null
+}

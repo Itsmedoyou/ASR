@@ -1,0 +1,8 @@
+{
+  "audio_file": "7b6d6996-1317-4337-aa09-a4443233a63c__5.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Bakın oysa.",
+  "normalized_transcript": "bak n oysa",
+  "error": null
+}

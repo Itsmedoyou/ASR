@@ -1,0 +1,8 @@
+{
+  "audio_file": "d713e952-feba-478f-8ccf-e33ece381f14__3.wav",
+  "asr": "whisper",
+  "status": "success",
+  "raw_transcript": "Don't know what to do.",
+  "normalized_transcript": "don t know what to do",
+  "error": null
+}

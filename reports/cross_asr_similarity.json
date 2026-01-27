@@ -1,0 +1,54 @@
+{
+  "unspecified": {
+    "whisper_vs_deepgram": {
+      "total_common": 267,
+      "both_empty": 17,
+      "a_only": 144,
+      "b_only": 2,
+      "both_present": 104,
+      "avg_similarity": 0.368
+    },
+    "whisper_vs_assembly": {
+      "total_common": 267,
+      "both_empty": 11,
+      "a_only": 42,
+      "b_only": 8,
+      "both_present": 206,
+      "avg_similarity": 0.236
+    },
+    "deepgram_vs_assembly": {
+      "total_common": 267,
+      "both_empty": 44,
+      "a_only": 9,
+      "b_only": 117,
+      "both_present": 97,
+      "avg_similarity": 0.547
+    }
+  },
+  "hindi": {
+    "whisper_vs_deepgram": {
+      "total_common": 12,
+      "both_empty": 0,
+      "a_only": 2,
+      "b_only": 0,
+      "both_present": 10,
+      "avg_similarity": 0.371
+    },
+    "whisper_vs_assembly": {
+      "total_common": 12,
+      "both_empty": 0,
+      "a_only": 2,
+      "b_only": 0,
+      "both_present": 10,
+      "avg_similarity": 0.482
+    },
+    "deepgram_vs_assembly": {
+      "total_common": 12,
+      "both_empty": 2,
+      "a_only": 0,
+      "b_only": 0,
+      "both_present": 10,
+      "avg_similarity": 0.597
+    }
+  }
+}

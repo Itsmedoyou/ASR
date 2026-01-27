@@ -1,0 +1,8 @@
+{
+  "audio_file": "42629491-41da-4433-bd5f-c08fe93cdf24__15.wav",
+  "asr": "deepgram",
+  "status": "success",
+  "raw_transcript": "And then we'll delete it.",
+  "normalized_transcript": "and then we ll delete it",
+  "error": null
+}

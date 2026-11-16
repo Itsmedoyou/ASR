@@ -1,14 +1,5 @@
 # ASR Evaluation Project
 
-Got it. This is the **last mile** now: turning everything you did into a **clear, memorable, reviewer-proof README** that explains the _flow_, not just the tools.
-
-Below is a **clean, end-to-end `README.md`** you can **copy-paste directly**.
-It explains **why each step exists**, **how metrics connect**, and **what conclusions mean**, with **formulas included**, exactly as you asked.
-
----
-
-# ASR Evaluation Project
-
 **Evaluating ASR Systems Without Ground Truth Using Agreement & Reliability**
 
 ---
@@ -47,8 +38,8 @@ Architectural independence ensures that **agreement between systems is meaningfu
 ## 📁 Project Structure
 
 ```
-asr-eval/
-├── data/
+ASR/
+├── data/                    # Not included: private call audio
 │   ├── raw_audio/           # Original audio files
 │   └── sampled_audio/       # ~267 files used for evaluation
 ├── results/
